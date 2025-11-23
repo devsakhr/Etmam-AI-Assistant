@@ -5,9 +5,10 @@ import ProductList from './ProductList';
 interface MessageListProps {
   messages: Message[];
   isTyping: boolean;
+  onSuggestionClick: (text: string) => void;
 }
 
-const MessageList: React.FC<MessageListProps> = ({ messages, isTyping }) => {
+const MessageList: React.FC<MessageListProps> = ({ messages, isTyping, onSuggestionClick }) => {
   const messagesEndRef = useRef<HTMLDivElement>(null);
 
   const scrollToBottom = () => {
@@ -17,6 +18,12 @@ const MessageList: React.FC<MessageListProps> = ({ messages, isTyping }) => {
   useEffect(() => {
     scrollToBottom();
   }, [messages, isTyping]);
+
+  const suggestions = [
+    "أرخص سماعة أذن عندكم؟",
+    "أبغى باور بنك 20 ألف ملي أمبير",
+    "وش أفضل جوال للألعاب بسعر معقول؟"
+  ];
 
   return (
     <div className="flex-1 overflow-y-auto p-4 space-y-6 bg-[#f0f2f5]">
@@ -37,15 +44,15 @@ const MessageList: React.FC<MessageListProps> = ({ messages, isTyping }) => {
             
             <div className="w-full max-w-sm text-right space-y-2">
                 <p className="text-xs font-bold text-gray-400 mb-2 mr-1">جرب تسألني:</p>
-                <div className="bg-white p-3 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 hover:border-teal-500 cursor-pointer transition-colors">
-                    "أرخص سماعة أذن عندكم؟"
-                </div>
-                <div className="bg-white p-3 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 hover:border-teal-500 cursor-pointer transition-colors">
-                    "أبغى باور بنك 20 ألف ملي أمبير"
-                </div>
-                <div className="bg-white p-3 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 hover:border-teal-500 cursor-pointer transition-colors">
-                    "وش أفضل جوال للألعاب بسعر معقول؟"
-                </div>
+                {suggestions.map((text, index) => (
+                  <div 
+                    key={index}
+                    onClick={() => onSuggestionClick(text)}
+                    className="bg-white p-3 rounded-xl border border-gray-200 shadow-sm text-sm text-gray-700 hover:border-teal-500 cursor-pointer transition-colors active:scale-95 transform duration-100"
+                  >
+                      "{text}"
+                  </div>
+                ))}
             </div>
         </div>
       )}

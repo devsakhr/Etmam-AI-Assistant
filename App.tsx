@@ -58,7 +58,11 @@ const App: React.FC = () => {
   return (
     <div className="flex flex-col h-screen max-w-md mx-auto bg-white shadow-2xl overflow-hidden">
       <Header />
-      <MessageList messages={messages} isTyping={isLoading} />
+      <MessageList 
+        messages={messages} 
+        isTyping={isLoading} 
+        onSuggestionClick={(text) => handleSendMessage(text, null)}
+      />
       <InputArea onSendMessage={handleSendMessage} isLoading={isLoading} />
     </div>
   );
