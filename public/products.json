@@ -1,0 +1,402 @@
+[
+  {
+    "id": 1,
+    "name": "آيفون 15 برو ماكس - 256 جيجابايت - تيتانيوم طبيعي",
+    "category": "جوالات",
+    "price": 4999,
+    "url": "https://ihtmam.com.sa/products/iphone-15-pro-max-256-natural",
+    "description": "أحدث هاتف من آبل بمعالج A17 Pro وهيكل تيتانيوم خفيف الوزن."
+  },
+  {
+    "id": 2,
+    "name": "آيفون 15 برو ماكس - 512 جيجابايت - تيتانيوم أزرق",
+    "category": "جوالات",
+    "price": 5999,
+    "url": "https://ihtmam.com.sa/products/iphone-15-pro-max-512-blue",
+    "description": "سعة تخزين أكبر مع الهيكل التيتانيوم المميز واللون الأزرق الجديد."
+  },
+  {
+    "id": 3,
+    "name": "آيفون 15 - 128 جيجابايت - وردي",
+    "category": "جوالات",
+    "price": 3200,
+    "url": "https://ihtmam.com.sa/products/iphone-15-128-pink",
+    "description": "تصميم عصري مع الجزيرة التفاعلية وكاميرا 48 ميجابكسل."
+  },
+  {
+    "id": 4,
+    "name": "آيفون 15 - 256 جيجابايت - أسود",
+    "category": "جوالات",
+    "price": 3700,
+    "url": "https://ihtmam.com.sa/products/iphone-15-256-black",
+    "description": "الآيفون الأساسي القوي بسعة تخزين مناسبة للاستخدام اليومي."
+  },
+  {
+    "id": 5,
+    "name": "آيفون 14 - 128 جيجابايت - أبيض",
+    "category": "جوالات",
+    "price": 2699,
+    "url": "https://ihtmam.com.sa/products/iphone-14-128-starlight",
+    "description": "خيار اقتصادي ممتاز بأداء عالي وبطارية تدوم طويلاً."
+  },
+  {
+    "id": 6,
+    "name": "سامسونج جالكسي S24 ألترا - 512 جيجابايت - تيتانيوم رمادي",
+    "category": "جوالات",
+    "price": 5200,
+    "url": "https://ihtmam.com.sa/products/samsung-s24-ultra-512-grey",
+    "description": "عملاق الأندرويد مع قلم S-Pen وميزات الذكاء الاصطناعي Galaxy AI."
+  },
+  {
+    "id": 7,
+    "name": "سامسونج جالكسي S24 بلس - 256 جيجابايت",
+    "category": "جوالات",
+    "price": 3999,
+    "url": "https://ihtmam.com.sa/products/samsung-s24-plus-256",
+    "description": "شاشة كبيرة وأداء قوي بفضل معالج Exynos الجديد وبطارية محسنة."
+  },
+  {
+    "id": 8,
+    "name": "سامسونج جالكسي A55 5G - 128 جيجابايت",
+    "category": "جوالات",
+    "price": 1599,
+    "url": "https://ihtmam.com.sa/products/samsung-a55-5g",
+    "description": "ملك الفئة المتوسطة بتصميم زجاجي فاخر ومقاومة للماء."
+  },
+  {
+    "id": 9,
+    "name": "هونر ماجيك V2 - قابل للطي",
+    "category": "جوالات",
+    "price": 6499,
+    "url": "https://ihtmam.com.sa/products/honor-magic-v2",
+    "description": "أنحف جوال قابل للطي في العالم ببطارية ضخمة وشاشات مذهلة."
+  },
+  {
+    "id": 10,
+    "name": "شاومي 14 ألترا - 512 جيجابايت",
+    "category": "جوالات",
+    "price": 4499,
+    "url": "https://ihtmam.com.sa/products/xiaomi-14-ultra",
+    "description": "نظام كاميرات لايكا الاحترافي لتجربة تصوير غير مسبوقة."
+  },
+  {
+    "id": 11,
+    "name": "سماعة ابل ايربودز برو (الجيل الثاني) - تايب سي",
+    "category": "سماعات",
+    "price": 899,
+    "url": "https://ihtmam.com.sa/products/airpods-pro-2-type-c",
+    "description": "عزل ضجيج متفوق وصوت محيطي غامر مع منفذ شحن USB-C."
+  },
+  {
+    "id": 12,
+    "name": "سماعة ابل ايربودز 3 - شحن لايتنينج",
+    "category": "سماعات",
+    "price": 649,
+    "url": "https://ihtmam.com.sa/products/airpods-3-lightning",
+    "description": "تصميم مريح ومقاومة للتعرق، بطارية تدوم طويلاً."
+  },
+  {
+    "id": 13,
+    "name": "سماعة ابل ايربودز 2",
+    "category": "سماعات",
+    "price": 449,
+    "url": "https://ihtmam.com.sa/products/airpods-2",
+    "description": "الخيار الاقتصادي والأكثر مبيعاً للاستخدام اليومي البسيط."
+  },
+  {
+    "id": 14,
+    "name": "سماعة رأس سوني WH-1000XM5 - أسود",
+    "category": "سماعات",
+    "price": 1299,
+    "url": "https://ihtmam.com.sa/products/sony-xm5-black",
+    "description": "أفضل سماعة رأس بخاصية إلغاء الضجيج في السوق وعزل تام."
+  },
+  {
+    "id": 15,
+    "name": "سماعة رأس سوني WH-1000XM4 - فضي",
+    "category": "سماعات",
+    "price": 999,
+    "url": "https://ihtmam.com.sa/products/sony-xm4-silver",
+    "description": "ما زالت منافساً قوياً براحة عالية وقيمة ممتازة مقابل السعر."
+  },
+  {
+    "id": 16,
+    "name": "سماعة جي بي ال Flip 6",
+    "category": "سماعات",
+    "price": 449,
+    "url": "https://ihtmam.com.sa/products/jbl-flip-6",
+    "description": "سبيكر بلوتوث محمول بصوت قوي ومقاومة للغبار والماء."
+  },
+  {
+    "id": 17,
+    "name": "سماعة جي بي ال Go 3",
+    "category": "سماعات",
+    "price": 179,
+    "url": "https://ihtmam.com.sa/products/jbl-go-3",
+    "description": "أصغر سبيكر من جي بي ال، مناسب للتنقل والسفر."
+  },
+  {
+    "id": 18,
+    "name": "شاحن جداري انكر 20 واط - نانو - أبيض",
+    "category": "شواحن",
+    "price": 59,
+    "url": "https://ihtmam.com.sa/products/anker-nano-20w",
+    "description": "شاحن صغير الحجم وسريع جدًا للآيفون والأجهزة الذكية."
+  },
+  {
+    "id": 19,
+    "name": "شاحن جداري انكر 45 واط - قابل للطي",
+    "category": "شواحن",
+    "price": 119,
+    "url": "https://ihtmam.com.sa/products/anker-45w-foldable",
+    "description": "مناسب لشحن جوالات سامسونج بسرعة فائقة 2.0 ولابتوبات ماك بوك اير."
+  },
+  {
+    "id": 20,
+    "name": "شاحن جداري راف باور 65 واط - 3 منافذ",
+    "category": "شواحن",
+    "price": 149,
+    "url": "https://ihtmam.com.sa/products/ravpower-65w-3port",
+    "description": "يشحن 3 أجهزة في نفس الوقت، تقنية GaN للحجم الصغير."
+  },
+  {
+    "id": 21,
+    "name": "بطارية متنقلة راف باور 10000 ملي أمبير - PD 20W",
+    "category": "شواحن متنقلة",
+    "price": 99,
+    "url": "https://ihtmam.com.sa/products/ravpower-10000",
+    "description": "باور بنك صغير الحجم بتقنية PD للشحن السريع."
+  },
+  {
+    "id": 22,
+    "name": "بطارية متنقلة انكر 20000 ملي أمبير - 20 واط",
+    "category": "شواحن متنقلة",
+    "price": 189,
+    "url": "https://ihtmam.com.sa/products/anker-20000",
+    "description": "سعة ضخمة تكفي لشحن جوالك عدة مرات، تدعم الشحن السريع."
+  },
+  {
+    "id": 23,
+    "name": "بطارية انكر برايم 27650 ملي أمبير - 250 واط",
+    "category": "شواحن متنقلة",
+    "price": 699,
+    "url": "https://ihtmam.com.sa/products/anker-prime-27650",
+    "description": "أقوى بنك طاقة من انكر، يشحن لابتوبات ويأتي بشاشة ذكية."
+  },
+  {
+    "id": 24,
+    "name": "شاحن سيارة راف باور 38 واط - منفذين",
+    "category": "شواحن سيارة",
+    "price": 49,
+    "url": "https://ihtmam.com.sa/products/ravpower-car-38w",
+    "description": "شاحن معدني قوي، يدعم شحن جهازين بسرعة عالية في السيارة."
+  },
+  {
+    "id": 25,
+    "name": "شاحن سيارة بيلكن مع ماج سيف - فتحة المكيف",
+    "category": "شواحن سيارة",
+    "price": 199,
+    "url": "https://ihtmam.com.sa/products/belkin-magsafe-car",
+    "description": "قاعدة تثبيت وشحن لاسلكي مغناطيسي للآيفون في السيارة."
+  },
+  {
+    "id": 26,
+    "name": "كيبل ايفون يو اس بي سي - انكر باور لاين - 0.9 متر",
+    "category": "كيابل",
+    "price": 49,
+    "url": "https://ihtmam.com.sa/products/anker-cable-usbc-09",
+    "description": "كيبل متين يتحمل الثني والاستخدام اليومي الشاق."
+  },
+  {
+    "id": 27,
+    "name": "كيبل ايفون قماش معتمد - 2 متر",
+    "category": "كيابل",
+    "price": 65,
+    "url": "https://ihtmam.com.sa/products/braided-cable-iphone-2m",
+    "description": "كيبل طويل ومريح مغطى بالنايلون المقاوم للقطع."
+  },
+  {
+    "id": 28,
+    "name": "بكج الحماية المتكامل للايفون 15 برو ماكس",
+    "category": "حماية",
+    "price": 99,
+    "url": "https://ihtmam.com.sa/products/protection-package-iphone-15-promax",
+    "description": "حماية شاشة زجاجية، كفر شفاف، وحماية للكاميرا."
+  },
+  {
+    "id": 29,
+    "name": "كفر حماية اوتربوكس سيمتري - آيفون 15",
+    "category": "حماية",
+    "price": 149,
+    "url": "https://ihtmam.com.sa/products/otterbox-symmetry-iphone-15",
+    "description": "حماية قصوى ضد السقوط بتصميم نحيف وأنيق."
+  },
+  {
+    "id": 30,
+    "name": "ساعة ابل الاصدار 9 - مقاس 45 - GPS",
+    "category": "ساعات ذكية",
+    "price": 1799,
+    "url": "https://ihtmam.com.sa/products/apple-watch-s9-45",
+    "description": "شاشة ساطعة ومعالج S9 الجديد مع ميزة النقر المزدوج."
+  },
+  {
+    "id": 31,
+    "name": "ساعة ابل الترا 2 - تيتانيوم",
+    "category": "ساعات ذكية",
+    "price": 3299,
+    "url": "https://ihtmam.com.sa/products/apple-watch-ultra-2",
+    "description": "الساعة الأقوى للرياضيين والمغامرين ببطارية تدوم طويلاً."
+  },
+  {
+    "id": 32,
+    "name": "ساعة ابل SE الجيل الثاني - مقاس 44",
+    "category": "ساعات ذكية",
+    "price": 1099,
+    "url": "https://ihtmam.com.sa/products/apple-watch-se-2-44",
+    "description": "كل الميزات الأساسية المهمة بسعر معقول."
+  },
+  {
+    "id": 33,
+    "name": "قاعدة شحن لاسلكية 3 في 1 - بيلكن",
+    "category": "شواحن",
+    "price": 599,
+    "url": "https://ihtmam.com.sa/products/belkin-3in1-magsafe",
+    "description": "شحن سريع 15 واط للايفون والساعة والسماعة بشكل أنيق."
+  },
+  {
+    "id": 34,
+    "name": "فيش سفر عالمي متعدد المنافذ 65 واط",
+    "category": "شواحن",
+    "price": 120,
+    "url": "https://ihtmam.com.sa/products/travel-adapter-65w",
+    "description": "رفيق السفر المثالي، يشحن اللابتوب والجوال في أي دولة."
+  },
+  {
+    "id": 35,
+    "name": "ماوس لوجيتك MX Master 3S",
+    "category": "اكسسوارات كمبيوتر",
+    "price": 499,
+    "url": "https://ihtmam.com.sa/products/logitech-mx-master-3s",
+    "description": "الماوس الإنتاجية الأفضل للمصممين والمبرمجين."
+  },
+  {
+    "id": 36,
+    "name": "كيبورد ايباد برو ماجيك كيبورد 12.9",
+    "category": "اكسسوارات ايباد",
+    "price": 1499,
+    "url": "https://ihtmam.com.sa/products/magic-keyboard-ipad-12-9",
+    "description": "يحول الآيباد إلى لابتوب متكامل مع لوحة تتبع مدمجة."
+  },
+  {
+    "id": 37,
+    "name": "قلم ابل الجيل الثاني",
+    "category": "اكسسوارات ايباد",
+    "price": 549,
+    "url": "https://ihtmam.com.sa/products/apple-pencil-2",
+    "description": "دقة بكسل مثالية واستجابة مذهلة للرسم والكتابة."
+  },
+  {
+    "id": 38,
+    "name": "ايباد اير 5 - 64 جيجابايت - واي فاي",
+    "category": "ايباد",
+    "price": 2499,
+    "url": "https://ihtmam.com.sa/products/ipad-air-5-64",
+    "description": "قوة شريحة M1 في تصميم نحيف وخفيف وشاشة مذهلة."
+  },
+  {
+    "id": 39,
+    "name": "ايباد الجيل العاشر - 64 جيجابايت - أزرق",
+    "category": "ايباد",
+    "price": 1699,
+    "url": "https://ihtmam.com.sa/products/ipad-10-64-blue",
+    "description": "تصميم جديد كلياً بألوان زاهية ومنفذ USB-C."
+  },
+  {
+    "id": 40,
+    "name": "جهاز تتبع ابل ايرتاق - حبة واحدة",
+    "category": "اكسسوارات",
+    "price": 129,
+    "url": "https://ihtmam.com.sa/products/airtag-1pack",
+    "description": "تتبع أغراضك الشخصية بسهولة عبر تطبيق تحديد الموقع."
+  },
+  {
+    "id": 41,
+    "name": "مسكة جوال مغناطيسية بوب سوكيت",
+    "category": "اكسسوارات",
+    "price": 119,
+    "url": "https://ihtmam.com.sa/products/popsocket-magsafe",
+    "description": "مسكة مريحة تدعم الماج سيف ويمكن فكها وتركيبها بسهولة."
+  },
+  {
+    "id": 42,
+    "name": "حماية كاميرا ايفون 15 برو - رينكي",
+    "category": "حماية",
+    "price": 45,
+    "url": "https://ihtmam.com.sa/products/ringke-camera-lens-15pro",
+    "description": "حماية زجاجية لعدسات الكاميرا لا تؤثر على جودة التصوير."
+  },
+  {
+    "id": 43,
+    "name": "منصة شحن انكر 6 منافذ - 60 واط",
+    "category": "شواحن",
+    "price": 129,
+    "url": "https://ihtmam.com.sa/products/anker-desktop-charger-60w",
+    "description": "تنظيم للمكتب وشحن لجميع أجهزتك من مقبس واحد."
+  },
+  {
+    "id": 44,
+    "name": "سلك شاحن مايكرو يو اس بي - متر",
+    "category": "كيابل",
+    "price": 29,
+    "url": "https://ihtmam.com.sa/products/cable-micro-usb-1m",
+    "description": "لشحن الأجهزة القديمة والسماعات والبطاريات."
+  },
+  {
+    "id": 45,
+    "name": "محول ابل من لايتنينج الى 3.5 ملم",
+    "category": "اكسسوارات",
+    "price": 45,
+    "url": "https://ihtmam.com.sa/products/apple-headphone-adapter",
+    "description": "لتشغيل سماعات السلك العادية على الآيفون."
+  },
+  {
+    "id": 46,
+    "name": "تابلت شاومي باد 6 - 128 جيجابايت",
+    "category": "ايباد",
+    "price": 1399,
+    "url": "https://ihtmam.com.sa/products/xiaomi-pad-6",
+    "description": "شاشة 144 هرتز وأداء ممتاز للألعاب والمشاهدة."
+  },
+  {
+    "id": 47,
+    "name": "ساعة هواوي واتش جي تي 4 - 46 ملم",
+    "category": "ساعات ذكية",
+    "price": 999,
+    "url": "https://ihtmam.com.sa/products/huawei-watch-gt4",
+    "description": "تصميم كلاسيكي فخم وبطارية تدوم حتى أسبوعين."
+  },
+  {
+    "id": 48,
+    "name": "كاميرا مراقبة شاومي 360 درجة",
+    "category": "منزل ذكي",
+    "price": 149,
+    "url": "https://ihtmam.com.sa/products/xiaomi-camera-360",
+    "description": "مراقبة منزلية بدقة عالية ورؤية ليلية واتصال بالجوال."
+  },
+  {
+    "id": 49,
+    "name": "ميزان ذكي يوفي P2",
+    "category": "منزل ذكي",
+    "price": 199,
+    "url": "https://ihtmam.com.sa/products/eufy-smart-scale-p2",
+    "description": "تحليل كامل للجسم (وزن، دهون، عضلات) وربط بالتطبيق."
+  },
+  {
+    "id": 50,
+    "name": "مكنسة روبوت يوفي G30",
+    "category": "منزل ذكي",
+    "price": 799,
+    "url": "https://ihtmam.com.sa/products/eufy-robovac-g30",
+    "description": "تنظيف ذكي للمنزل مع قوة شفط عالية وتخطيط للمسار."
+  }
+]

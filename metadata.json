@@ -1,0 +1,8 @@
+{
+  "name": "Ehtimam Telecom AI Assistant",
+  "description": "A smart customer service assistant for Ehtimam Telecom, specializing in electronics, warranty policies, and purchase assistance using Saudi dialect.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
